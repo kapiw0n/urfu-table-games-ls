@@ -17,7 +17,7 @@
 
 <h3>Инструкция для запуска приложения на localhost:</h3>
 <ul>
-  <li>Необходимо наличие <a src = "https://nodejs.org/en/download">NodeJS</a> и <a src = "https://babeljs.io/setup#installation">Babel</a> на устройстве</li>
+  <li>Необходимо наличие <a href = "https://nodejs.org/en/download">NodeJS</a> и <a href = "https://babeljs.io/setup#installation">Babel</a> на устройстве</li>
   <li>Загрузить репозиторий вручную или через git:<code>git clone https://github.com/kapiw0n/urfu-table-games-ls</code></li>
   <li>В самой директории проекта установить следующие npm пакеты:<ul>
     <li><code>npm install vite@latest</code></li>
